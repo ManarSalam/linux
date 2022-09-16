@@ -1,6 +1,9 @@
 # linux.. myFemtoShell..read me
+
 Please use this command for compiling:
+
 gcc -o myFemtoShell myFemtoShell.c
+
 ***
 ##example of output:
 
