@@ -7,7 +7,7 @@ gcc -o myFemtoShell myFemtoShell.c
 ##example of output:
 
 Sada S000t: test keda > Hello my shell<br/>
-You said: Hello my shell<br/>
+You said: Hello my shell
 Sada S000t: test keda > what can you do?<br/>
 You said: what can you do?<br/>
 Sada S000t: test keda > you are Super<br/>
